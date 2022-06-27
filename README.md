@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Onur :airplane:
+
+- 🌱 I’m currently learning how to use GitHub
+- 📫 How to reach me:
+
+<p align='left'>
+  <a href="https://www.linkedin.com/in/onur-akin-ae/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="mailto:oakin.ae@gmail.com?subject=HiOnur"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 <!--
 **onurae/onurae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
