@@ -1,4 +1,4 @@
-### Hi, I'm Onur :airplane:
+## Hi, I'm Onur :airplane:
 
 - 🌱 I’m currently learning how to use GitHub
 - 📫 How to reach me:
