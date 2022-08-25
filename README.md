@@ -1,6 +1,6 @@
 ## Hi, I'm Onur :airplane:
 
-- 🌱 I’m currently learning how to use GitHub
+- 🌱 I’m currently learning FreeRTOS
 - 📫 How to reach me:
 
 <p align='left'>
