@@ -1,6 +1,6 @@
 ## Hi, I'm Onur :airplane:
 
-- 🌱 I’m currently learning FreeRTOS
+- 🌱 I’m currently learning data-driven science and engineering.
 - 📫 How to reach me:
 
 <p align='left'>
